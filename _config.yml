@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 喵喵的旅行
+title: 喵的旅行
 subtitle:
 description:
 author: Duan & Cindy
@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: hevbevt@cctrips.cc:~/blog.git
+  repo: hexo@114.55.131.192:~/blog.git
   branch: master
