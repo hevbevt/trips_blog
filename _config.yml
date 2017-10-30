@@ -80,3 +80,6 @@ deploy:
   type: git
   repo: hexo@114.55.131.192:~/blog.git
   branch: master
+
+# Disqus
+disqus_shortname: cctrips
