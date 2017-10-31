@@ -83,3 +83,9 @@ deploy:
 
 # Disqus
 disqus_shortname: cctrips
+
+# hexo-admin authentification
+admin:
+  username: duanhe
+  password_hash: $2a$10$DCV6iWs0s/wCaiQ7WRsyn.izzHMSwDD7rQjYya32SlICVPEgLdgFa
+  secret: duanhe's password
